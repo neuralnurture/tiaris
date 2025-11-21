@@ -11,7 +11,7 @@ export default function TiarisLanding() {
     setMessage('');
     
     try {
-      const response = await fetch('https://formspree.io/f/xvgledzy', {
+      const response = await fetch('https://formspree.io/f/xzzwbrzp', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
